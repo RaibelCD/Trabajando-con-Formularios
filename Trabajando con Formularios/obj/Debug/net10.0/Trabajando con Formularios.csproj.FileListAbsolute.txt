@@ -1,0 +1,14 @@
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\bin\Debug\net10.0\Trabajando con Formularios.exe
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\bin\Debug\net10.0\Trabajando con Formularios.deps.json
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\bin\Debug\net10.0\Trabajando con Formularios.runtimeconfig.json
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\bin\Debug\net10.0\Trabajando con Formularios.dll
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\bin\Debug\net10.0\Trabajando con Formularios.pdb
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.AssemblyInfoInputs.cache
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.AssemblyInfo.cs
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.csproj.CoreCompileInputs.cache
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.dll
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\refint\Trabajando con Formularios.dll
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.pdb
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\Trabajando con Formularios.genruntimeconfig.cache
+F:\Visual Studio Community\Proyecto\Trabajando con Formularios\obj\Debug\net10.0\ref\Trabajando con Formularios.dll
